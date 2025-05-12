@@ -2,6 +2,8 @@
 
 ClipboardAI is an AI-powered clipboard assistant that works with multiple LLM providers to help you process text from your clipboard quickly and efficiently.
 
+![Dashboard](images/dashboard.png)
+
 ## Features
 
 - **Multiple AI Providers**: Support for Google Gemini, OpenAI, and Anthropic Claude
@@ -11,6 +13,25 @@ ClipboardAI is an AI-powered clipboard assistant that works with multiple LLM pr
 - **System Integration**: Runs in your system tray for easy access
 - **Dark Mode**: Supports both light and dark themes
 - **Secure**: Your API keys are stored encrypted on your local device
+
+## The Main Application
+
+<div align="center">
+  <img src="images/dashboard.png" alt="d\Dashboard Templates" width="45%" />
+  <img src="images/prompts.png" alt="Prompt Templates" width="45%" />
+</div>
+
+<div align="center">
+  <img src="images/settings.png" alt="Settings" width="45%" />
+  <img src="images/apikeys.png" alt="API Keys Configuration" width="45%" />
+</div>
+
+## Hotkey Popup
+
+<div align="center">
+  <img src="images/popup.png" alt="Popup Templates"/>
+</div>
+
 
 ## Installation
 
@@ -79,7 +100,7 @@ npm run build
 
 ## License
 
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
